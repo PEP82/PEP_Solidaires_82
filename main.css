@@ -44,6 +44,7 @@ header
   width: 40%;
   margin-left: 20px;
   float: left;
+  position: relative;
 }
 #t1
 {
@@ -116,9 +117,10 @@ header
 {
   margin-top: 50px;
   float: right;
+  position: relative;
   width: 40%;
 }
 #img4:hover
 {
-  border: 1px solid black;
+  border: 1px solid #C4302B;
 }  
